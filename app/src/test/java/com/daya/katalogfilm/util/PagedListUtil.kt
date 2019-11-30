@@ -12,5 +12,8 @@ fun <T> mockPagedList(list: List<T>): PagedList<T> {
         list[index]
     }
     `when`(pagedList.size).thenReturn(list.size)
+
+    //TODO cek
+
     return pagedList
 }
