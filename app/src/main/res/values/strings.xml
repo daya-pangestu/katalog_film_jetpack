@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">katalog film</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="per_ten">%1$.01f/10</string>
+    <string name="detail">detail</string>
+    <string name="image_movie_or_tv">image movie or tv</string>
+</resources>
